@@ -1,10 +1,10 @@
-## 👋 Hello! My name is hanbyeol Jo, I'm dreaming of becoming a developer.
+### 👋 Hello! My name is hanbyeol Jo, I'm dreaming of becoming a developer.
 
 📚My major is Electrical and electronic engineering, 💻and I have been studying computer science since 2021. I can Python(My most confident language) and Javascript. I am especially interested in web-frontend. Today as well, I am eager to achieve my dream by solving algorithm problems.
 
-# Languages
+### Languages
+https://img.shields.io/wordpress/plugin/stars/bbpress?color=blue&label=python
 
-# Contacts
 
 
 <!--
