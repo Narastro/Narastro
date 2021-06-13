@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 👋 Hello! My name is hanbyeol Jo, I'm dreaming of becoming a developer.
 
 📚My major is Electrical and electronic engineering, 💻and I have been studying computer science since 2021. I can Python(My most confident language) and Javascript. I am especially interested in web-frontend. Today as well, I am eager to achieve my dream by solving algorithm problems.
