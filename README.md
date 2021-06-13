@@ -21,16 +21,16 @@
 
 </p>
 
------------------------------------------------------------------
+<div align="center">
 
-## Project
+  [![포트폴리오](https://img.shields.io/badge/-Portfolio-orange)]()
+  
+</div>
 
-### 🏸 [Smashtube](https://github.com/Narastro/smashtube/)
-### 📗 [Da-Diary](https://github.com/Narastro/Da-Diary/)
 
 ---------------------------------------------------------------
 
-### Study Algorithms [See](https://github.com/Narastro/Algorithm_problems) [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
+### Problem Solving [See](https://github.com/Narastro/Algorithm_problems) [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
 <details>
 <summary><strong>📈 GitHub Stats</strong></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Narastro&show_icons=true&theme=vue-dark&hide=stars" alt="Narastro" />
