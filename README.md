@@ -7,6 +7,8 @@
 - 🎈 I like to decorate and make things,
 - 😊 I want to be a developer with positive energy. 
 
+ps. 'Narastro' is the nickname my father gave me.🚀
+
 
 <p align="center">
 
