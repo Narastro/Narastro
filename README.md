@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Narastro%20Github&fontSize=80)
 
-### 👋 Hello! My name is hanbyeol Jo, I'm dreaming of becoming a developer.
+### 👋 Hi there
 
+- I'm Hanbyeol Jo,
 - 📚My major is Electrical and electronic engineering,
--  💻and I have been studying computer science since 2021. I can Python(My most confident language) and Javascript. I am especially interested in web-frontend. Today as well, I am eager to achieve my dream by solving algorithm problems.
-
+- 💻and I have been studying computer science since 2021.2
 
 <p align="center">
 
