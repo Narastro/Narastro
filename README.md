@@ -32,7 +32,7 @@ ps. 'Narastro' is the nickname my father gave me.🚀
 
 ---------------------------------------------------------------
 
-### Problem Solving [See](https://github.com/Narastro/Algorithm_problems) [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
+### ✍Problem Solving [See](https://github.com/Narastro/Algorithm_problems) [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
 <details>
 <summary><strong>📈 GitHub Stats</strong></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Narastro&show_icons=true&theme=vue-dark&hide=stars" alt="Narastro" />
