@@ -59,17 +59,16 @@ ps. 'Narastro' is the nickname my father gave me.🚀
 </div>
 
 
-<hr>
-
-<h2>
+<h3 align="end">
   
-✍ [Problem Solving](https://github.com/Narastro/Algorithm_problems) [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
+  [PS✍](https://github.com/Narastro/Algorithm_problems)
+  [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
   
-</h2>
-<details>
+</h3>
+<!-- <details>
 <summary><strong>📈 GitHub Stats</strong></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Narastro&show_icons=true&theme=vue-dark&hide=stars" alt="Narastro" />
-</details>
+</details> -->
 
 
 
