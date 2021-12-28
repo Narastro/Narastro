@@ -55,7 +55,7 @@ ps. 'Narastro' is the nickname my father gave me.🚀
 
 <div align="center"> 
   
-  [![포트폴리오](https://img.shields.io/badge/-Portfolio-orange)](https://www.notion.so/3f75989278a14569ae460c91c3cfa7bd)
+  [![포트폴리오](https://painted-albatross-4c9.notion.site/Portfolio-4dadc905bc0f46a3a223f5d042bdcfbf)
   [![블로그](https://img.shields.io/badge/-Blog-green)](https://hanastro.tistory.com/)
   
 </div>
