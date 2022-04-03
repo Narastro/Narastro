@@ -4,7 +4,6 @@
 
 - 🐥 I'm Hanbyeol Jo,
 - 🎓 I majored in electrical and electronic engineering at Yonsei University,
-- 🎈 I like to decorate and make things,
 - 😊 I want to be a developer with positive energy. 
 
 ps. 'Narastro' is the nickname my father gave me.🚀
@@ -15,35 +14,12 @@ ps. 'Narastro' is the nickname my father gave me.🚀
 </h3>
 
 
-<h5 align="center"> FrontEnd
-</h5>
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </p>
 
-<h5 align="center"> BackEnd / DB
-</h5>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-</p>
-
-
-<h5 align="center"> etc
-</h5>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>  
-  
-</p>
-<br/>
 <h3 align="center"> 🐥About Me 🐥
 </h3>
 
@@ -55,9 +31,10 @@ ps. 'Narastro' is the nickname my father gave me.🚀
 </div>
 
 
-<h3 align="end">
+<h3 align="center">
   
-  [PS✍](https://github.com/Narastro/Algorithm_problems)
+  [✍ Algorithm ✍](https://github.com/Narastro/Algorithm_problems)
+  
   [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
   
 </h3>
