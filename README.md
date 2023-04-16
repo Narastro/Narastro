@@ -20,9 +20,9 @@ ps. 'Narastro' is the nickname my father gave me.🚀
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </p>
 
-<h3 align="center"> 🐥About Me 🐥
-</h3>
-
+<!-- <h3 align="center"> 🐥About Me 🐥
+</h3> -->
+<!-- 
 <div align="center"> 
   
   [![포트폴리오](https://img.shields.io/badge/-Portfolio-orange)](https://painted-albatross-4c9.notion.site/Portfolio-4dadc905bc0f46a3a223f5d042bdcfbf)
@@ -37,7 +37,7 @@ ps. 'Narastro' is the nickname my father gave me.🚀
   
   [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=advice02)](https://solved.ac/advice02)
   
-</h3>
+</h3> -->
 <!-- <details>
 <summary><strong>📈 GitHub Stats</strong></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Narastro&show_icons=true&theme=vue-dark&hide=stars" alt="Narastro" />
